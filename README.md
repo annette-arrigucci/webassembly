@@ -20,11 +20,15 @@ WebAssembly presentation
   <li>Check <a href="https://caniuse.com/#feat=wasm" target="_blank">caniuse.com</a></li>
 </ul>
 <b>What are some cool examples of WebAssembly?</b>
-<li>
-  <ul><a href="https://webassembly.org/demo/Tanks/">webassembly.org</a> - Unity tank game</ul>
-  <ul><a href="https://ctrl-alt-d.github.io/BlazorConfirm/">BlazorConfirm</a></ul>
-</li>
+<ul>
+  <li><a href="https://webassembly.org/demo/Tanks/">webassembly.org</a> - Unity tank game</li>
+  <li><a href="https://ctrl-alt-d.github.io/BlazorConfirm/">BlazorConfirm</a></li>
+</ul>
+<b>Getting started with WebAssembly</b>
+<ul>
+  <li>Directions for downloading Emscripten on <a href="https://webassembly.org/getting-started/developers-guide/">webassembly.org</a></li>
+</ul>
 <b>What does WebAssembly code look like</b>
-<li>
-  <ul><a href="https://mbebenita.github.io/WasmExplorer/">WasmExplorer</a></ul>
-</li>
+<ul>
+  <li><a href="https://mbebenita.github.io/WasmExplorer/">WasmExplorer</a></li>
+</ul>
