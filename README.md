@@ -28,7 +28,10 @@ WebAssembly presentation
 <ul>
   <li>Directions for downloading Emscripten on <a href="https://webassembly.org/getting-started/developers-guide/">webassembly.org</a></li>
 </ul>
-<b>What does WebAssembly code look like</b>
+<b>What does WebAssembly code look like?</b>
 <ul>
   <li><a href="https://mbebenita.github.io/WasmExplorer/">WasmExplorer</a></li>
 </ul>
+<b>What languages can be compiled into WebAssembly?</b>
+<ul>
+  <li>C/C++, Rust, Go, C#, Java, etc. - <a href="https://stackoverflow.com/questions/43540878/what-languages-can-be-compiled-to-web-assembly-or-wasm">see list on StackOverflow</a></li>
